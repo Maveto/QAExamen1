@@ -1,4 +1,12 @@
+p3Test/Ej3Test.java
+ p3Test.Ej3Test
+testSuite/TestSuite.java
+ testSuite.TestSuite
+p5Test/Ej5Test.java
+ p5Test.Ej5Test
 p1Test/Ej1Test.java
  p1Test.Ej1Test
 p2Test/Ej2Test.java
  p2Test.Ej2Test
+p4Test/Ej4Test.java
+ p4Test.Ej4Test
